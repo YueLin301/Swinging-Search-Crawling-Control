@@ -1,4 +1,6 @@
 ## Swinging Search and Crawling Control
+1. Our paper: [A snake-inspired path planning algorithm based on reinforcement learning and self-motion for hyper-redundant manipulators](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=fbvQHX4AAAAJ&citation_for_view=fbvQHX4AAAAJ:u-x6o8ySG0sC).
+2. A brief overview [on my website](https://yuelin301.github.io/posts/SSCC/).
 
 ## Structure
 1. `arm_kine`: my manipulator kinematics package.
