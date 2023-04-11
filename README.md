@@ -14,4 +14,7 @@
 3. `crawling`: Crawling Control.
 All the videos and the pics in the paper can be reproduced by running these codes.
 
-![Crawling Control](./video/simple_16_2_speedup.mp4)
+
+
+https://user-images.githubusercontent.com/58388400/231222288-2d9df6cc-cb10-4d35-ac46-b4f4682ebb1a.mp4
+
